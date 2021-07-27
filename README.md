@@ -8,7 +8,7 @@ Descriere tehnică:
 
 Drona vine echipată cu:
 * cadru hexacopter
-* flight controller "Arduino Uno" (micro controller "ATmega328P", gyroscop "GY-521", GPS "U-blox Neo-6M", reciever radio "FSIA6B" - 4 canale) + interfața user pentru gestionarea datelor de la sol (FlightMonitor)
+* flight controller "Arduino Uno/Nano" (micro controller "ATmega328P", gyroscop "GY-521", GPS "U-blox Neo-6M", reciever radio "FSIA6B" - 4 canale) + interfața user pentru gestionarea datelor de la sol (FlightMonitor)
 * "RaspberryPi 4" + camera termala
 * cameră de tip "GoPro" + convertor hdmi la analog + modul transmitere video FPV
 * motare brushless BR2212 980kv 
