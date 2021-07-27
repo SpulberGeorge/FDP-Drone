@@ -20,7 +20,7 @@ Dotări:
 * Cameră de tip "GoPro" + convertor hdmi la analog + modul transmitere video FPV
 * x6 motare brushless BR2212 980kv + elice 10 inch
 * Esc-uri 30A (electronic speed controllers)
-* Acumulatori "LiPo" 3S 10000mAh (autonomie 20 min)In atentia utilizatorului:
+* Acumulatori "LiPo" 3S 10000mAh (autonomie 20 min)
 
 Librării folosite:
 * "AltSoftSerial" dezvoltată de Paul Stoffregen
