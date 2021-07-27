@@ -23,8 +23,6 @@ Dotări:
 * acumulatori "LiPo" 3S 10000mAh (autonomie 20 min)In atentia utilizatorului:
 
 Librării folosite:
-
-Sunt folosite librăriile:
 * "AltSoftSerial" dezvoltată de Paul Stoffregen
 * "TinyGPS" dezvoltată de Mikal Hart.
 
