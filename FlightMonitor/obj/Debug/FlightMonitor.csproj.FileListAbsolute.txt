@@ -1,0 +1,10 @@
+C:\Robotics\FlightMonitor\bin\Debug\FlightMonitor.exe.config
+C:\Robotics\FlightMonitor\bin\Debug\FlightMonitor.exe
+C:\Robotics\FlightMonitor\bin\Debug\FlightMonitor.pdb
+C:\Robotics\FlightMonitor\obj\Debug\FlightMonitor.csproj.AssemblyReference.cache
+C:\Robotics\FlightMonitor\obj\Debug\FlightMonitor.Form1.resources
+C:\Robotics\FlightMonitor\obj\Debug\FlightMonitor.Properties.Resources.resources
+C:\Robotics\FlightMonitor\obj\Debug\FlightMonitor.csproj.GenerateResource.cache
+C:\Robotics\FlightMonitor\obj\Debug\FlightMonitor.csproj.CoreCompileInputs.cache
+C:\Robotics\FlightMonitor\obj\Debug\FlightMonitor.exe
+C:\Robotics\FlightMonitor\obj\Debug\FlightMonitor.pdb
