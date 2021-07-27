@@ -24,7 +24,7 @@ Sunt folosite librăriile:
 Necesitați:
 * Windows 10
 * .NET Framework 4.7.2
-* Arduino IDE 1.8.15 + Arduino Uno
+* Arduino IDE 1.8.15
 
 Creatori/Autori:
 * Spulber George-Marian: Hardware + FlightMonitor developer
