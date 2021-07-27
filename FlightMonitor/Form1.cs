@@ -1,4 +1,5 @@
-﻿using System;
+﻿// made by Spulber George, all rights reserved
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
