@@ -21,7 +21,7 @@ Sunt folosite librăriile:
 * "AltSoftSerial" dezvoltată de Paul Stoffregen
 * "TinyGPS" dezvoltată de Mikal Hart.
 
-Necesitați:
+Necesitați/Cerințe de sistem:
 * Windows 10
 * .NET Framework 4.7.2
 * Arduino IDE 1.8.15
