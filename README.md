@@ -11,16 +11,16 @@ Descriere tehnică:
 * Microcontroler "ATmega328P" + Raspberry Pi ușor de implementat
 * Control telecomandat + autonom (cod custom)
 * Aplicatie C# cu user interface pentru a comunica cu drona de la sol, observarea si gestionarea datelor (comunicatie serial - FlightMonitor)
-* Desing robust
+* Desing robust, dimensiune medie, ușor de gestionat
 
 Dotări:
-* cadru hexacopter
-* flight controller "Arduino Uno/Nano" (microcontroller "ATmega328P", giroscop "GY-521", GPS "U-blox Neo-6M", reciever radio "FSIA6B" - 4 canale) + interfața user pentru gestionarea datelor de la sol (FlightMonitor)
+* Cadru hexacopter
+* Flight controller "Arduino Uno/Nano" (microcontroller "ATmega328P", giroscop "GY-521", GPS "U-blox Neo-6M", reciever radio "FSIA6B" - 4 canale) + interfața user pentru gestionarea datelor de la sol (FlightMonitor)
 * "RaspberryPi 4" + camera termala
-* cameră de tip "GoPro" + convertor hdmi la analog + modul transmitere video FPV
-* x6 motare brushless BR2212 980kv 
-* esc-uri 30A (electronic speed controllers)
-* acumulatori "LiPo" 3S 10000mAh (autonomie 20 min)In atentia utilizatorului:
+* Cameră de tip "GoPro" + convertor hdmi la analog + modul transmitere video FPV
+* x6 motare brushless BR2212 980kv + elice 10 inch
+* Esc-uri 30A (electronic speed controllers)
+* Acumulatori "LiPo" 3S 10000mAh (autonomie 20 min)In atentia utilizatorului:
 
 Librării folosite:
 * "AltSoftSerial" dezvoltată de Paul Stoffregen
