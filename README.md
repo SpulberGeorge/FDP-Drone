@@ -6,7 +6,7 @@ Descriere:
 
 Descriere tehnică:
 * Grade de libertate: X, Y, Z
-* Giroscop folosit pentru determinarea unghiului de înclinare + pentru menținerea dronei pe poziția zero cu ajutorul PID-ului (protocol i2C)
+* Giroscop folosit pentru determinarea unghiului de înclinare + pentru menținerea dronei pe poziția zero cu ajutorul PID-ului (protocol I2C)
 * Modul GPS pentru a determina locația dronei + obținerea unor coordonate precise
 * Microcontroler "ATmega328P" + Raspberry Pi ușor de implementat
 * Control telecomandat + autonom (cod custom)
