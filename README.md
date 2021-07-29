@@ -24,7 +24,8 @@
 
 # Librării folosite
 * "AltSoftSerial" dezvoltată de Paul Stoffregen
-* "TinyGPS" dezvoltată de Mikal Hart.
+* "TinyGPS" dezvoltată de Mikal Hart Cats
+* "MPU6050" dezvoltată de Electronic
 
 # Necesitați/Cerințe de sistem
 * Windows 10
